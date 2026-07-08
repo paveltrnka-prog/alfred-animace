@@ -4,9 +4,8 @@ Sbírka Lottie animací (`.json`) používaných v produktu **Alfred**.
 
 ## Živý náhled
 
-Po zapnutí GitHub Pages je k dispozici zde:
-
 👉 **https://trnkapavel.github.io/alfred-animace/_preview.html**
+👉 **https://paveltrnka-prog.github.io/alfred-animace/_preview.html**
 
 ## Struktura repozitáře
 
